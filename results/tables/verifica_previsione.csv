@@ -1,0 +1,9 @@
+feature,prevista,osservata,peso,rango_assoluto,conferma
+ratio_connettivi,macchina,macchina,0.4558708570927862,14,True
+tripletta_per_100parole,macchina,macchina,0.20373232376958178,22,True
+ratio_hedging,macchina,macchina,0.5731820798102211,9,True
+coordinate_per_frase,macchina,umano,-0.4658432647480951,12,False
+punt_per_100parole_puntovirgola,umano,umano,-0.8707887643765811,6,True
+em_dash_per_100parole,umano,umano,-0.28309021169259196,17,True
+punt_per_100parole_parentesi,umano,umano,-1.012224769924443,4,True
+ratio_pron_prima_persona,umano,umano,-0.32630317234271233,15,True

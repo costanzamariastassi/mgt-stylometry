@@ -1,0 +1,14 @@
+{
+  "verso macchina": [
+    "ratio_connettivi",
+    "tripletta_per_100parole",
+    "ratio_hedging",
+    "coordinate_per_frase"
+  ],
+  "verso umano": [
+    "punt_per_100parole_puntovirgola",
+    "em_dash_per_100parole",
+    "punt_per_100parole_parentesi",
+    "ratio_pron_prima_persona"
+  ]
+}
