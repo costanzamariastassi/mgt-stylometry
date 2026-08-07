@@ -1,0 +1,5 @@
+mgt/
+__pycache__/
+*.pyc
+data/raw/
+.ipynb_checkpoints/
